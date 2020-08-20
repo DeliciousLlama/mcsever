@@ -1,0 +1,275 @@
+[11:59:13] [Server thread/INFO]: Loading properties
+[11:59:13] [Server thread/INFO]: Default game type: SURVIVAL
+[11:59:13] [Server thread/INFO]: Generating keypair
+[11:59:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:59:14] [Server thread/INFO]: Using epoll channel type
+[11:59:14] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[11:59:21] [Server thread/INFO]: [Assassin] Loading Assassin v1.2.1
+[11:59:21] [Server thread/INFO]: Preparing level "world"
+[11:59:21] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[11:59:21] [Server thread/INFO]: Loaded 6 recipes
+[11:59:22] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[11:59:23] [Server thread/INFO]: Preparing spawn area: 0%
+[11:59:23] [Server thread/INFO]: Preparing spawn area: 0%
+[11:59:23] [Server thread/INFO]: Preparing spawn area: 0%
+[11:59:26] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[11:59:26] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[11:59:26] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[11:59:26] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[11:59:26] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[11:59:26] [Server-Worker-3/INFO]: Preparing spawn area: 91%
+[11:59:26] [Server-Worker-2/INFO]: Preparing spawn area: 91%
+[11:59:27] [Server-Worker-1/INFO]: Preparing spawn area: 91%
+[11:59:27] [Server-Worker-1/INFO]: Preparing spawn area: 92%
+[11:59:28] [Server thread/INFO]: Preparing spawn area: 97%
+[11:59:28] [Server thread/INFO]: Time elapsed: 6359 ms
+[11:59:28] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[11:59:29] [Server thread/INFO]: Preparing spawn area: 0%
+[11:59:29] [Server thread/INFO]: Preparing spawn area: 0%
+[11:59:29] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[11:59:30] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[11:59:30] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[11:59:31] [Server-Worker-4/INFO]: Preparing spawn area: 88%
+[11:59:31] [Server-Worker-4/INFO]: Preparing spawn area: 98%
+[11:59:31] [Server thread/INFO]: Time elapsed: 3065 ms
+[11:59:31] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[11:59:33] [Server thread/INFO]: Preparing spawn area: 0%
+[11:59:33] [Server thread/INFO]: Preparing spawn area: 0%
+[11:59:33] [Server thread/INFO]: Preparing spawn area: 0%
+[11:59:33] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[11:59:33] [Server thread/INFO]: Time elapsed: 1899 ms
+[11:59:33] [Server thread/INFO]: [Assassin] Enabling Assassin v1.2.1
+[11:59:33] [Server thread/INFO]: Assassin plugin started.
+[11:59:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:59:33] [Server thread/INFO]: Done (12.432s)! For help, type "help"
+[12:01:08] [User Authenticator #1/INFO]: UUID of player GnarlyLlama is 583f9352-0413-4dd3-8462-44843edb6003
+[12:01:08] [Server thread/INFO]: GnarlyLlama[/127.0.0.1:44552] logged in with entity id 194 at ([world]-68.95601742341722, 63.0, -92.760799214801)
+[12:01:25] [Server thread/INFO]: GnarlyLlama issued server command: /gamemode creative
+[12:01:25] [Server thread/INFO]: [GnarlyLlama: Set own game mode to Creative Mode]
+[12:03:35] [User Authenticator #2/INFO]: UUID of player Maple_Bacon_ is 41587fe9-0226-4b70-a93f-c6657f9ec915
+[12:03:35] [Server thread/INFO]: Maple_Bacon_[/47.156.122.59:52016] logged in with entity id 539 at ([world]-62.5, 63.0, -104.5)
+[12:03:40] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> ello[m
+[12:03:53] [User Authenticator #3/INFO]: UUID of player ShreyG is 025d3fc1-a322-452a-b862-3a07f5ebdcc7
+[12:03:53] [Server thread/INFO]: ShreyG[/45.50.22.188:53740] logged in with entity id 579 at ([world]-65.5, 64.0, -93.5)
+[12:04:11] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> hi[m
+[12:04:15] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> tok[m
+[12:04:19] [Netty Epoll Server IO #9/INFO]: <ShreyG> ok go[m
+[12:04:19] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> let me start the command[m
+[12:04:22] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> hold up[m
+[12:04:23] [Netty Epoll Server IO #9/INFO]: <ShreyG> we will give you 10 seconds[m
+[12:04:24] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> whos runner[m
+[12:04:29] [Netty Epoll Server IO #9/INFO]: <ShreyG> whoever[m
+[12:04:29] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> me[m
+[12:04:31] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> ok[m
+[12:04:36] [Server thread/INFO]: GnarlyLlama issued server command: /assassin ShreyG
+[12:04:41] [Server thread/INFO]: GnarlyLlama issued server command: /assassin Maple_Bacon_
+[12:04:43] [Netty Epoll Server IO #9/INFO]: <ShreyG> ready[m
+[12:04:44] [Netty Epoll Server IO #9/INFO]: <ShreyG> set[m
+[12:04:46] [Netty Epoll Server IO #9/INFO]: <ShreyG> go[m
+[12:04:48] [Server thread/INFO]: GnarlyLlama issued server command: /speedrunner GnarlyLlama
+[12:04:49] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> oh shoot[m
+[12:04:50] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> wait[m
+[12:04:51] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> ok[m
+[12:04:54] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> i lost half my health[m
+[12:04:58] [Server thread/INFO]: GnarlyLlama issued server command: /gamemode survival
+[12:04:58] [Server thread/INFO]: [GnarlyLlama: Set own game mode to Survival Mode]
+[12:04:59] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> 3[m
+[12:05:01] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> wait[m
+[12:05:01] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> 2[m
+[12:05:02] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> can i die[m
+[12:05:16] [Server thread/INFO]: Maple_Bacon_ fell from a high place
+[12:05:33] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> oh wait[m
+[12:05:37] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> u guys need compass[m
+[12:05:39] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> i have[m
+[12:05:41] [Server thread/INFO]: GnarlyLlama issued server command: /give @a minecraft:compass
+[12:05:41] [Server thread/INFO]: [GnarlyLlama: Gave 1 [Compass] to 3]
+[12:06:15] [Server thread/INFO]: Maple_Bacon_ has made the advancement [Stone Age]
+[12:06:30] [Server thread/INFO]: Maple_Bacon_ has made the advancement [Getting an Upgrade]
+[12:07:12] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> are the compasses working?[m
+[12:07:18] [Server thread/INFO]: GnarlyLlama has made the advancement [Stone Age]
+[12:07:19] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> should be[m
+[12:07:36] [Server thread/INFO]: GnarlyLlama has made the advancement [Getting an Upgrade]
+[12:07:59] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> ayo im so confused[m
+[12:08:06] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> ti hope u have a boat[m
+[12:08:17] [Server thread/INFO]: ShreyG has made the advancement [Stone Age]
+[12:08:25] [Server thread/INFO]: GnarlyLlama issued server command: /speedrunner GnarlyLlama
+[12:08:34] [Server thread/INFO]: GnarlyLlama issued server command: /assassin Maple_Bacon_
+[12:08:39] [Server thread/INFO]: GnarlyLlama issued server command: /assassin ShreyG
+[12:08:53] [Server thread/INFO]: ShreyG has made the advancement [Getting an Upgrade]
+[12:08:56] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> YES[m
+[12:09:13] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> shrey[m
+[12:09:20] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> comehre[m
+[12:09:28] [Netty Epoll Server IO #9/INFO]: <ShreyG> where are you[m
+[12:09:59] [Server thread/WARN]: Maple_Bacon_ moved wrongly!
+[12:10:18] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> hes inm there[m
+[12:10:28] [Server thread/INFO]: GnarlyLlama was slain by Maple_Bacon_
+[12:10:31] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> aww fuck[m
+[12:10:33] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> gg[m
+[12:10:35] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> gg[m
+[12:10:39] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> that was a nice practive[m
+[12:10:43] [Netty Epoll Server IO #9/INFO]: <ShreyG> one more[m
+[12:10:44] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> again?[m
+[12:10:45] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> tok[m
+[12:10:47] [Netty Epoll Server IO #9/INFO]: <ShreyG> this time[m
+[12:10:49] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> wait let me set it[m
+[12:10:50] [Netty Epoll Server IO #9/INFO]: <ShreyG> parsa[m
+[12:10:52] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> huh[m
+[12:10:52] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> why[m
+[12:10:54] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> ok[m
+[12:10:57] [Netty Epoll Server IO #9/INFO]: <ShreyG> parsa will speedrun[m
+[12:11:03] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> ok[m
+[12:11:08] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> imma kill all[m
+[12:11:10] [Server thread/INFO]: GnarlyLlama issued server command: /kill @a
+[12:11:10] [Server thread/INFO]: ShreyG didn't want to live in the same world as Maple_Bacon_
+[12:11:10] [Server thread/INFO]: Maple_Bacon_ fell out of the world
+[12:11:10] [Server thread/INFO]: GnarlyLlama fell out of the world
+[12:11:10] [Server thread/INFO]: [GnarlyLlama: Killed 3 entities]
+[12:11:14] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> .ok[m
+[12:11:16] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> let me set[m
+[12:11:21] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> assasin gna[m
+[12:11:32] [Server thread/INFO]: GnarlyLlama issued server command: /assassin GnarlyLlama
+[12:11:32] [Netty Epoll Server IO #9/INFO]: <ShreyG> ok les go[m
+[12:11:35] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> wait[m
+[12:11:42] [Server thread/INFO]: ShreyG has made the advancement [Monster Hunter]
+[12:11:42] [Server thread/INFO]: GnarlyLlama issued server command: /assassin ShreyG
+[12:11:46] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> kill me[m
+[12:11:46] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> pls[m
+[12:11:47] [Server thread/INFO]: GnarlyLlama issued server command: /speedrunner
+[12:11:50] [Server thread/INFO]: GnarlyLlama issued server command: //done
+[12:11:51] [Server thread/INFO]: Maple_Bacon_ was slain by ShreyG
+[12:11:52] [Server thread/INFO]: GnarlyLlama issued server command: /done
+[12:11:53] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> tdone[m
+[12:11:54] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> ty\[m
+[12:11:56] [Server thread/INFO]: GnarlyLlama issued server command: /speedrunner Maple_Bacon_
+[12:12:03] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> what[m
+[12:12:05] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> wait[m
+[12:12:05] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> what[m
+[12:12:11] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> we started?[m
+[12:12:12] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> wtf[m
+[12:12:22] [Netty Epoll Server IO #9/INFO]: <ShreyG> ok start now[m
+[12:12:25] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> well[m
+[12:12:26] [Server thread/INFO]: Maple_Bacon_ was slain by GnarlyLlama
+[12:12:29] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> bruh what[m
+[12:12:31] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> bruh[m
+[12:12:32] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> ok[m
+[12:12:35] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> you didnt even say go[m
+[12:12:35] [Netty Epoll Server IO #9/INFO]: <ShreyG> ok start now[m
+[12:12:38] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> imma give 5 secs[m
+[12:12:41] [Server thread/INFO]: GnarlyLlama issued server command: /time set 0
+[12:12:41] [Server thread/INFO]: [GnarlyLlama: Set the time to 0]
+[12:12:49] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> ok here I come[m
+[12:13:14] [Server thread/INFO]: ShreyG was slain by Zombie
+[12:13:24] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> wait[m
+[12:13:40] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> huh[m
+[12:13:47] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> wait[m
+[12:13:47] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> no[m
+[12:13:50] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> twe are hunters[m
+[12:13:53] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> yea[m
+[12:13:56] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> huh[m
+[12:13:58] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> what[m
+[12:13:59] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> wait ok[m
+[12:13:59] [Netty Epoll Server IO #9/INFO]: <ShreyG> start over[m
+[12:14:03] [Netty Epoll Server IO #9/INFO]: <ShreyG> and turn mobs off[m
+[12:14:03] [Server thread/INFO]: GnarlyLlama issued server command: /kill @a
+[12:14:03] [Server thread/INFO]: GnarlyLlama fell out of the world
+[12:14:03] [Server thread/INFO]: Maple_Bacon_ fell out of the world
+[12:14:03] [Server thread/INFO]: ShreyG fell out of the world
+[12:14:03] [Server thread/INFO]: [GnarlyLlama: Killed 3 entities]
+[12:14:09] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> bruh[m
+[12:14:09] [Server thread/INFO]: GnarlyLlama issued server command: /kill @e
+[12:14:09] [Server thread/INFO]: GnarlyLlama fell out of the world
+[12:14:09] [Server thread/INFO]: Maple_Bacon_ fell out of the world
+[12:14:09] [Server thread/INFO]: ShreyG fell out of the world
+[12:14:09] [Server thread/INFO]: [GnarlyLlama: Killed 208 entities]
+[12:14:14] [Netty Epoll Server IO #9/INFO]: <ShreyG> turn mobs off[m
+[12:14:18] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> whos speed running[m
+[12:14:20] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> me[m
+[12:14:21] [Netty Epoll Server IO #9/INFO]: <ShreyG> parsa[m
+[12:14:23] [Netty Epoll Server IO #9/INFO]: <ShreyG> turn off mobs[m
+[12:14:24] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> and we hunters?[m
+[12:14:26] [Netty Epoll Server IO #9/INFO]: <ShreyG> so annoying[m
+[12:14:26] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> I did[m
+[12:14:28] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> tok[m
+[12:14:29] [Netty Epoll Server IO #9/INFO]: <ShreyG> ok[m
+[12:14:30] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> let me set[m
+[12:14:31] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> bruh i was doin some nice stuff[m
+[12:14:34] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> then we restarted[m
+[12:14:36] [Server thread/INFO]: GnarlyLlama issued server command: /assassin ShreyG
+[12:14:39] [Server thread/INFO]: GnarlyLlama issued server command: /assassin GnarlyLlama
+[12:14:41] [Netty Epoll Server IO #9/INFO]: <ShreyG> ok we give you 10 seconds starting now[m
+[12:14:44] [Server thread/INFO]: GnarlyLlama issued server command: /speedrunner Maple_Bacon_
+[12:14:45] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> ok[m
+[12:14:47] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> done[m
+[12:14:49] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> tlets go[m
+[12:16:11] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> toh parsa[m
+[12:16:14] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> huh[m
+[12:16:18] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> what that mean[m
+[12:16:20] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> ooh parsa[m
+[12:16:23] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> oh[m
+[12:16:24] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> lmao[m
+[12:17:48] [Netty Epoll Server IO #9/INFO]: <ShreyG> i foudn a temple[m
+[12:17:51] [Netty Epoll Server IO #9/INFO]: <ShreyG> idk how they work tho[m
+[12:17:55] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> bruh][m
+[12:18:00] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> jungle ones suck[m
+[12:18:05] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> tikr[m
+[12:18:08] [Server thread/INFO]: Maple_Bacon_ has made the advancement [Monster Hunter]
+[12:18:12] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> i thought mobs were off[m
+[12:18:42] [Netty Epoll Server IO #9/INFO]: <ShreyG> where are you[m
+[12:18:46] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> ur moms house[m
+[12:18:48] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> ;)[m
+[12:19:36] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> tooh parsa[m
+[12:19:40] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> cmere[m
+[12:19:43] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> why do you always put a t[m
+[12:19:46] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> becase[m
+[12:19:48] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> idk[m
+[12:20:25] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> ticu[m
+[12:20:29] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> i c u[m
+[12:20:37] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> oh sthi[m
+[12:20:38] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> i fucked up[m
+[12:20:49] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> i got to halfa heart[m
+[12:20:50] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> lol[m
+[12:21:29] [Server thread/INFO]: GnarlyLlama fell from a high place
+[12:21:32] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> FUCK[m
+[12:21:32] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> bro[m
+[12:21:35] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> that scared me[m
+[12:22:04] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> i hate hungle[m
+[12:22:07] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> ty for the food[m
+[12:22:32] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> cmere dream[m
+[12:22:43] [Netty Epoll Server IO #9/INFO]: <ShreyG> i have no clue where you are[m
+[12:22:46] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> i saw ur name[m
+[12:22:48] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> use compass[m
+[12:22:58] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> bro melons suck[m
+[12:23:01] [Server thread/INFO]: Maple_Bacon_ has made the advancement [Acquire Hardware]
+[12:23:11] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> no[m
+[12:23:20] [Server thread/INFO]: Maple_Bacon_ has made the advancement [Suit Up]
+[12:24:20] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> you muffin head[m
+[12:24:23] [Netty Epoll Server IO #9/INFO]: <ShreyG> ok gtg[m
+[12:24:25] [Netty Epoll Server IO #9/INFO]: <ShreyG> bruh[m
+[12:24:26] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> bruh[m
+[12:24:27] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> ok[m
+[12:24:28] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> bruh[m
+[12:24:30] [Server thread/INFO]: ShreyG lost connection: Disconnected
+[12:24:30] [Server thread/INFO]: ShreyG left the game
+[12:24:33] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> just me and u parsa[m
+[12:24:34] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> so you wanna keep goin[m
+[12:24:35] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> ok[m
+[12:24:42] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> discord?[m
+[12:24:43] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> i forgot im supposed to kill the dragon[m
+[12:24:43] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> lol[m
+[12:24:44] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> sure[m
+[12:24:57] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> which[m
+[12:25:02] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> lemonorange[m
+[12:25:08] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> nmo i mean[m
+[12:25:10] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> the server or dm[m
+[12:25:14] [Netty Epoll Server IO #1/INFO]: <GnarlyLlama> dm[m
+[12:25:29] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> oim callin[m
+[12:25:30] [Netty Epoll Server IO #6/INFO]: <Maple_Bacon_> im[m
+[12:25:32] [Server thread/INFO]: GnarlyLlama has made the advancement [Monster Hunter]
+[12:25:51] [Server thread/INFO]: GnarlyLlama was blown up by Creeper
+[12:26:40] [Server thread/INFO]: GnarlyLlama was slain by Zombie
+[12:27:13] [Server thread/INFO]: GnarlyLlama lost connection: Disconnected
+[12:27:13] [Server thread/INFO]: GnarlyLlama left the game
+[12:27:28] [Server thread/INFO]: Maple_Bacon_ has made the advancement [Not Today, Thank You]
+[12:27:34] [Server thread/INFO]: Maple_Bacon_ lost connection: Disconnected
+[12:27:34] [Server thread/INFO]: Maple_Bacon_ left the game
+[12:29:24] [Thread-3/INFO]: Stopping server
